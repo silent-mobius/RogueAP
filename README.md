@@ -9,6 +9,8 @@ Requirements:
 karma'd version of hostapd is installed
 /lib/wifi/mac80211.sh to have been replaced with mac80211.sh
 dhcp-watcher.py to be in the /root/ directory
+https://github.com/synap5e/FakeHTTPServers to be installed in /mnt/data/FakeHTTPServers
+https://github.com/synap5e/FakeServers to be installed in /mnt/data/FakeServers
 status.sh to be copied to /usr/bin/status (and be marked as executable)
 tmux, dnsmasq, python, python-twisted, several extra python libraries (list coming)
 
