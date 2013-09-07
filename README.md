@@ -1,7 +1,7 @@
 RougeAP
 ===========
 
-Scripts and tools used for running a rouge access point using karma (patched hostapd)
+Scripts and tools used for running a rogue access point using karma (patched hostapd)
 
 The rouge AP is launched by running rougeAP.sh
 
