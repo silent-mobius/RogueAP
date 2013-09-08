@@ -35,7 +35,7 @@ Move the curser over the lines after config interface 'lan' and type 'dd' for ea
 
 Setup log
 ```
-opgk --force-overwrite hostapd_20111103-3_ar71xx.ipk
+opkh --force-overwrite install hostapd_20111103-3_ar71xx.ipk
 
 opkg update
 # read http://wiki.openwrt.org/doc/howto/usb.storage
